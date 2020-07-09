@@ -109,7 +109,7 @@ flex-wrap: wrap;
     margin-top:200px;
 }
 .online h1{
-    text-align:end;
+    padding-left: 400px;
     padding-bottom: 50px;
 }
 .online img{
